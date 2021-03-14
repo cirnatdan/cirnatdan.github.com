@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-14T09:34:33.857Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="CAfnB6RF2KsIdPO08pBf" version="14.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T10:13:35.616Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="ItyvmhFIz2rrvdRS8XvC" version="14.4.8" type="github">
   <diagram id="NFRNfm0h4ZY8vDqPIxej" name="Page-1">
-    <mxGraphModel dx="766" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,6 +99,45 @@
         </mxCell>
         <mxCell id="HXODYzN8fFKIpMeS8qYQ-38" value="Internet+DC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkAfZKp-Kzsd5ykoG6e-1" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
+          <mxGeometry x="60" y="390" width="100" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkAfZKp-Kzsd5ykoG6e-2" value="Modem 3G/4G/5G" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195.75" y="445.4" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkAfZKp-Kzsd5ykoG6e-3" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.router;" vertex="1" parent="1">
+          <mxGeometry x="60" y="500" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkAfZKp-Kzsd5ykoG6e-4" value="Router" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="505" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkAfZKp-Kzsd5ykoG6e-5" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.switch;" vertex="1" parent="1">
+          <mxGeometry x="60" y="555" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkAfZKp-Kzsd5ykoG6e-6" value="Comutator rețea + PoE(curent electric)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="560" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkAfZKp-Kzsd5ykoG6e-7" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" vertex="1" parent="1">
+          <mxGeometry x="482.8" y="430" width="37.2" height="35.4" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkAfZKp-Kzsd5ykoG6e-8" value="Cameră video IP PoE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="437.7" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkAfZKp-Kzsd5ykoG6e-9" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.nas_filer;" vertex="1" parent="1">
+          <mxGeometry x="451.4" y="497.5" width="100" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkAfZKp-Kzsd5ykoG6e-10" value="Inregistrator video" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="505" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZMkAfZKp-Kzsd5ykoG6e-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="465" y="569.5" as="sourcePoint" />
+            <mxPoint x="535" y="569.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZMkAfZKp-Kzsd5ykoG6e-12" value="Cablu rețea UTP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="555" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
